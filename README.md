@@ -6,5 +6,7 @@ Most of this information was originally sent in emails or Google docs, but it se
 
 I apologize that some materials are in proprietary formats, but for things like spreadsheets and rich text docs, I wanted folks to be able to have formats that could be directly uploaded to Google Docs.
 
+I expect to upload all the docs sometime in late February.
+
 Carl Howe
 carl@rstudio.com
